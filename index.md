@@ -3,7 +3,7 @@ title: "Peluquería Estilo"
 ---
 
 <head>
-  <link rel="stylesheet" href="https://r0yalcode.github.io/CSS-/styles.css">
+  <link rel="stylesheet" href="https://r0yalcode.github.io/css-/CSS1/styles.css">
 </head>
 
 # Peluquería Estilo

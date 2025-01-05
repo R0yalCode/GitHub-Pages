@@ -6,7 +6,6 @@ title: "Peluquería Estilo"
   <link rel="stylesheet" href="https://r0yalcode.github.io/CSS-/CSS1/styles.css">
 </head>
 
-# Peluquería Estilo
 
 Bienvenido a **Peluquería Estilo**. Transforma tu look con nuestros cortes de pelo exclusivos.
 

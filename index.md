@@ -1,6 +1,9 @@
+---
+title: "Peluquería Estilo"
+---
 
 <head>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://r0yalcode.github.io/CSS-/styles.css">
 </head>
 
 # Peluquería Estilo

@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
 # Peluquería Estilo
 
 Bienvenido a **Peluquería Estilo**. Transforma tu look con nuestros cortes de pelo exclusivos.
